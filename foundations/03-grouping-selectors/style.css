@@ -1,0 +1,14 @@
+.class {
+    background-color: black;
+    color: white;
+    font-weight: 700;
+}
+
+.class2 {
+    background-color: yellow;
+}
+
+.font-resize {
+    font-size: 28px;
+    font-family: "Times New Roman", Helvetica, sans-serif ;
+}
